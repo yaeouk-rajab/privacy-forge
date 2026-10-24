@@ -19,6 +19,20 @@ A self-hostable consent, data-subject-request (DSAR), and data-retention
 engine for small SaaS teams who need a defensible answer to "prove you handle
 personal data lawfully" — without an enterprise compliance-platform budget.
 
+## Screenshots
+
+![Staff login](docs/demo/screenshots/01-login.png)
+
+![DSAR queue](docs/demo/screenshots/02-dsar-queue.png)
+
+![Retention dry-run preview](docs/demo/screenshots/03-retention-dry-run.png)
+
+![RoPA export](docs/demo/screenshots/04-ropa-export.png)
+
+![Audit log](docs/demo/screenshots/05-audit-log.png)
+
+_Real screenshots of the running application; see [`docs/demo/`](docs/demo/) for how they were captured._
+
 ## What this demonstrates
 
 - **Requirements Analysis (deep):** full regulatory traceability from GDPR
